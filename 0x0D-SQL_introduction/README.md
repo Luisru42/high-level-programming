@@ -23,10 +23,7 @@ This repository contains a structured set of SQL scripts designed to reinforce f
 | 14-average.sql               | Calculate average scores                         |
 | 15-groups.sql                | Group data by class or category                  |
 | 16-no_link.sql               | Identify records without foreign key links       |
-| 100-move_to_utf8.sql         | Convert database encoding to UTF-8               |
-| 101-avg_temperatures.sql     | Compute average temperatures from dataset        |
-| 102-top_city.sql             | Find the city with the highest temperature       |
-| 103-max_state.sql            | Determine the state with the highest max temp    |
+
 
 ## 🧠 Purpose
 
